@@ -1,5 +1,3 @@
-# Salary Prediction System Using ML
- Demo 
 
 <p align= "center">
  Nama Kelompok :
